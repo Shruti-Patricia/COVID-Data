@@ -1,4 +1,4 @@
-# Tableau_Project-2
+# COVID 19-Data
 This Tableau project aims to provide a comprehensive and user-friendly visualization of COVID-19 data, including cases, deaths, and other relevant information. 
 The dashboards have been created following recommended practices discussed in our class, ensuring clarity, usability, and adherence to data visualization best practices.
 
